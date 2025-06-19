@@ -205,7 +205,7 @@ input,
     }
 
     .love-bottom {
-        background: url("./assets/lovebg.jpeg")center/contain no-repeat;
+        background: url("../assets/lovebg.jpeg")center/contain no-repeat;
     }
 
     .lovetop {
@@ -397,7 +397,7 @@ section {
             #firstcard {
                 .cardimg1 {
                     height: 30vh;
-                    background: url("./assets/savei_phone.jpg") center / contain no-repeat;
+                    background: url("../assets/savei_phone.jpg") center / contain no-repeat;
                 }
             }
 
@@ -415,14 +415,14 @@ section {
                 #secondcard {
                     .cardimg2 {
                         height: 20vh;
-                        background: url("./assets/appleemoji.jpeg") center / contain no-repeat;
+                        background: url("../assets/appleemoji.jpeg") center / contain no-repeat;
                     }
                 }
 
                 #thirdcard {
                     .cardimg3 {
                         height: 30vh;
-                        background: url("./assets/aplepphone.jpeg") center / contain no-repeat;
+                        background: url("../assets/aplepphone.jpeg") center / contain no-repeat;
                     }
                 }
             }
@@ -439,7 +439,7 @@ section {
     }
 
     .magbtm {
-        background: url("./assets/applephones.jpeg") center / contain no-repeat;
+        background: url("../assets/applephones.jpeg") center / contain no-repeat;
     }
 
     .featured h2 {
@@ -448,7 +448,7 @@ section {
     }
 
     .magic-bottom {
-        background: #fff url("./assets/applebg9.jpeg") top / contain no-repeat;
+        background: #fff url("../assets/applebg9.jpeg") top / contain no-repeat;
     }
 
     .air-top p {
@@ -466,15 +466,15 @@ section {
     }
 
     .secbtm {
-        background: url("./assets/ios17.jpg") center / cover no-repeat;
+        background: url("../assets/ios17.jpg") center / cover no-repeat;
     }
 
     .switchbtm {
-        background: url("./assets/applebg.jpeg") bottom/ cover no-repeat;
+        background: url("../assets/applebg.jpeg") bottom/ cover no-repeat;
     }
 
     .privacybtm {
-        background: url("./assets/privacy.jpg") bottom/ cover no-repeat;
+        background: url("../assets/privacy.jpg") bottom/ cover no-repeat;
     }
 
     .sp {
@@ -494,11 +494,11 @@ section {
     }
 
     .one {
-        background: url("./assets/apple_one.jpg") center / contain no-repeat;
+        background: url("../assets/apple_one.jpg") center / contain no-repeat;
     }
 
     .one-left {
-        background: url("./assets/applebg2.jpeg") center / contain no-repeat;
+        background: url("../assets/applebg2.jpeg") center / contain no-repeat;
     }
 
     #getmore p {
@@ -531,31 +531,31 @@ section {
     }
 
     .tvbtm {
-        background: url("./assets/tv+_bg.png") center / cover no-repeat;
+        background: url("../assets/tv+_bg.png") center / cover no-repeat;
     }
 
     .musicbtm {
-        background: url("./assets/music_bg.jpg") center 45px / cover no-repeat;
+        background: url("../assets/music_bg.jpg") center 45px / cover no-repeat;
     }
 
     .fitnessbtm {
-        background: url("./assets/fitness_bg.jpg") center / cover no-repeat;
+        background: url("../assets/fitness_bg.jpg") center / cover no-repeat;
     }
 
     .arcadebtm {
-        background: url("./assets/arcade_bg.png") center / contain no-repeat;
+        background: url("../assets/arcade_bg.png") center / contain no-repeat;
     }
 
     .newsbtm {
-        background: url("./assets/news_bg.jpeg") center -100px / cover no-repeat;
+        background: url("../assets/news_bg.jpeg") center -100px / cover no-repeat;
     }
 
     .giftbtm {
-        background: url("./assets/gift_bg.jpg") bottom / cover no-repeat;
+        background: url("../assets/gift_bg.jpg") bottom / cover no-repeat;
     }
 
     .appbtm {
-        background: url("./assets/research_app.jpg") center / contain no-repeat;
+        background: url("../assets/research_app.jpg") center / contain no-repeat;
     }
 }
 
