@@ -13,7 +13,10 @@
         align-items: center;
         padding: 10px 0;
     }
-.nav-icons>* {
+
+
+
+    .nav-icons>* {
         padding: 0 8px;
     }
 
@@ -335,7 +338,7 @@ input,
                 width: 60%;
                 margin: auto;
             }
-
+    
         }
 
     }
@@ -348,8 +351,7 @@ input,
         flex-direction: column;
         text-align: center;
         align-items: center;
-
-        a {
+        a{
             width: auto;
         }
     }
@@ -370,7 +372,7 @@ section {
     }
 
     .ways {
-
+        
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -381,10 +383,9 @@ section {
         }
 
         .all-cards {
-            gap: 20px;
+            gap:20px;
             display: flex;
             justify-content: space-between;
-
             p {
                 color: #6e6e73;
             }
@@ -403,15 +404,14 @@ section {
 
             article {
                 background: #fff;
-                padding: 10px;
-                margin-bottom: 15px;
+                padding:10px;
+                margin-bottom:15px;
                 text-align: center;
             }
 
             .cards {
-                gap: 20px;
+                gap:20px;
                 display: flex;
-
                 #secondcard {
                     .cardimg2 {
                         height: 20vh;
@@ -586,83 +586,70 @@ h2 {
         font-family: "Arial", Arial, Helvetica, sans-serif;
     }
 }
-
 ol {
     padding: 0 0 30px 30px;
-
     li {
-        padding: 0;
-        list-style: decimal;
+      padding: 0;
+      list-style: decimal;
     }
-}
-
-footer {
+  }
+  footer {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.8em;
     color: #000000bd;
-}
-
-footer p {
+  }
+  footer p {
     margin: 20px 0;
-}
-
-.ftop {
+  }
+  .ftop {
     margin: 10px 0 20px 16px;
-}
-
-.ftop a {
+  }
+  .ftop a {
     display: flex;
     align-items: center;
     gap: 40px;
-}
-
-.ftop .fa-apple {
+  }
+  .ftop .fa-apple {
     font-size: 1.5rem;
     color: #000;
-}
-
-a {
+  }
+  a {
     text-decoration: none;
     color: inherit;
 }
-
 label {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 16px 20px;
-}
+  }
 
-.footermenu {
+  .footermenu {
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.footernav {
+  }
+  
+.footernav{
     line-height: 1.5em;
     transition: 0.3s;
     margin: 0 0 0 20px;
 }
-
-.open:checked~.footernav {
+.open:checked~.footernav{
     max-height: 250px;
     padding-bottom: 16px;
 }
-
 footer p {
     margin: 20px 0;
 }
-
 .moreway {
-    color: #0071E3;
+    color:#0071E3 ;
     text-decoration: underline;
-}
-
-.footernav {
+  }
+  .footernav {
     max-height: 0;
     overflow: hidden;
     line-height: 1.5em;
     transition: 0.3s;
     margin: 0 0 0 20px;
-}
+  }
